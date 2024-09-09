@@ -7,7 +7,7 @@
 
 [Lab 03](https://github.com/MacherlaDivya/AIML_2025/blob/main/Lab_3.ipynb): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms 
 
-[Lab 04](https://colab.research.google.com/drive/1__udbRAqvlQxxx_hfWxOls1EaoDuANO1): Implement Linear Regression using Boston Housing Data 
+[Lab 04](https://github.com/MacherlaDivya/AIML_2025/blob/main/Lab4.ipynb): Implement Linear Regression using Boston Housing Data 
 
 [Lab 05](https://colab.research.google.com/drive/1wTdBwHUQkih3I6cZmMYt6bo2zgasBOuf?usp=chrome_ntp#scrollTo=6Uiu1ceOFzzm): Implement Logistic Regression using Titanic Ship Data 
 

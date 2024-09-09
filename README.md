@@ -9,7 +9,7 @@
 
 [Lab 04](): Implement Linear Regression using Boston Housing Data 
 
-[Lab 05](): Implement Logistic Regression using Titanic Ship Data 
+[Lab 05](https://colab.research.google.com/drive/1wTdBwHUQkih3I6cZmMYt6bo2zgasBOuf?usp=chrome_ntp#scrollTo=6Uiu1ceOFzzm): Implement Logistic Regression using Titanic Ship Data 
 
 [Lab 06](): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 
